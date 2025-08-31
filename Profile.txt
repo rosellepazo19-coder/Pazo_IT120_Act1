@@ -5,3 +5,10 @@ Gender: Female
 Age: 21
 Birthday: July 19, 2004
 Contacts: 09816043187
+
+Birth Place: Novaliches, City
+Religion: Roman Catholic
+Father's Name: Remegildo V. Pazo
+Occupation: Welder
+Mother's Name: Marites L. Pazo
+Occupation: Street Sweeper
